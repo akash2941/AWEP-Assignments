@@ -1,0 +1,58 @@
+.container{
+    border: black solod 5px;
+}
+
+.row{
+    
+}
+
+.col-1,.col-2,.col-3,.col-4,.col-5,.col-6,.col-7,.col-8,.col-9,.col-10,.col-11,.col-12{
+    
+}
+
+#web_name{
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+#login{
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+#row-1{
+    background: chartreuse;
+    height: 10vh;
+}
+
+#menu{
+    background: pink;
+    height: 5vh;
+}
+
+#menu ui{
+    list-style: none;
+}
+
+#menu ui li{
+    display: inline-block;
+    color: floralwhite;
+}
+
+#content{
+    background: yellow;
+}
+
+#side-bar{
+    background: rgb(28, 224, 208);
+}
+
+#side-bar ui{
+    list-style: none;
+}
+
+#row-4{
+    background: firebrick;
+    height: 5vh;
+}
